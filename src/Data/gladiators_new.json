@@ -17,7 +17,7 @@
         "status": "Alive",
         "species": "Human",
         "gender": "Male",
-        "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
+        "image": "1.jpg",
         "__v": 0
     },
     {
@@ -38,7 +38,7 @@
         "status": "Alive",
         "species": "Human",
         "gender": "Male",
-        "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg",
+        "image": "2.jpg",
         "__v": 0
     },
     {
@@ -59,7 +59,7 @@
         "status": "Alive",
         "species": "Human",
         "gender": "Female",
-        "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg",
+        "image": "3.jpg",
         "__v": 0
     },
     {
@@ -80,7 +80,7 @@
         "status": "Alive",
         "species": "Human",
         "gender": "Female",
-        "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg",
+        "image": "4.jpg",
         "__v": 0
     },
     {
@@ -101,7 +101,7 @@
         "status": "Alive",
         "species": "Human",
         "gender": "Male",
-        "image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg",
+        "image": "5.jpg",
         "__v": 0
     },
     {
@@ -122,7 +122,7 @@
         "status": "Alive",
         "species": "Alien",
         "gender": "Female",
-        "image": "https://rickandmortyapi.com/api/character/avatar/6.jpeg",
+        "image": "6.jpg",
         "__v": 0
     },
     {
@@ -143,7 +143,7 @@
         "status": "unknown",
         "species": "Human",
         "gender": "Male",
-        "image": "https://rickandmortyapi.com/api/character/avatar/7.jpeg",
+        "image": "7.jpg",
         "__v": 0
     },
     {
@@ -164,7 +164,7 @@
         "status": "Dead",
         "species": "Human",
         "gender": "Male",
-        "image": "https://rickandmortyapi.com/api/character/avatar/8.jpeg",
+        "image": "8.jpg",
         "__v": 0
     },
     {
@@ -185,7 +185,7 @@
         "status": "Dead",
         "species": "Human",
         "gender": "Male",
-        "image": "https://rickandmortyapi.com/api/character/avatar/9.jpeg",
+        "image": "9.jpg",
         "__v": 0
     },
     {
@@ -206,7 +206,7 @@
         "status": "Dead",
         "species": "Human",
         "gender": "Male",
-        "image": "https://rickandmortyapi.com/api/character/avatar/10.jpeg",
+        "image": "10.jpg",
         "__v": 0
     },
     {
@@ -227,7 +227,7 @@
         "status": "Dead",
         "species": "Human",
         "gender": "Male",
-        "image": "https://rickandmortyapi.com/api/character/avatar/11.jpeg",
+        "image": "11.jpg",
         "__v": 0
     },
     {
@@ -248,7 +248,7 @@
         "status": "Dead",
         "species": "Human",
         "gender": "Male",
-        "image": "https://rickandmortyapi.com/api/character/avatar/12.jpeg",
+        "image": "12.jpg",
         "__v": 0
     },
     {
@@ -269,7 +269,7 @@
         "status": "unknown",
         "species": "Alien",
         "gender": "unknown",
-        "image": "https://rickandmortyapi.com/api/character/avatar/13.jpeg",
+        "image": "13.jpg",
         "__v": 0
     },
     {
@@ -290,7 +290,7 @@
         "status": "unknown",
         "species": "Alien",
         "gender": "Male",
-        "image": "https://rickandmortyapi.com/api/character/avatar/14.jpeg",
+        "image": "14.jpg",
         "__v": 0
     },
     {
@@ -311,7 +311,7 @@
         "status": "unknown",
         "species": "Alien",
         "gender": "Male",
-        "image": "https://rickandmortyapi.com/api/character/avatar/15.jpeg",
+        "image": "15.jpg",
         "__v": 0
     },
     {
@@ -332,7 +332,7 @@
         "status": "Dead",
         "species": "Alien",
         "gender": "Male",
-        "image": "https://rickandmortyapi.com/api/character/avatar/16.jpeg",
+        "image": "16.jpg",
         "__v": 0
     },
     {
@@ -353,7 +353,7 @@
         "status": "Alive",
         "species": "Human",
         "gender": "Female",
-        "image": "https://rickandmortyapi.com/api/character/avatar/17.jpeg",
+        "image": "17.jpg",
         "__v": 0
     },
     {
@@ -374,7 +374,7 @@
         "status": "Alive",
         "species": "Human",
         "gender": "Male",
-        "image": "https://rickandmortyapi.com/api/character/avatar/18.jpeg",
+        "image": "18.jpg",
         "__v": 0
     },
     {
@@ -395,7 +395,7 @@
         "status": "unknown",
         "species": "Human",
         "gender": "Male",
-        "image": "https://rickandmortyapi.com/api/character/avatar/19.jpeg",
+        "image": "19.jpg",
         "__v": 0
     },
     {
@@ -416,7 +416,7 @@
         "status": "unknown",
         "species": "Human",
         "gender": "Male",
-        "image": "https://rickandmortyapi.com/api/character/avatar/20.jpeg",
+        "image": "20.jpg",
         "__v": 0
     }
 ]
